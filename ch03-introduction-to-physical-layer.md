@@ -1,5 +1,67 @@
 # Ch3 Introduction to Physical Layer
 
+PART 2: Physical Layer
+
+- Chapter 3 Introduction to Physical Layer
+
+    - 3.1 Data and Signals
+
+        - 3.1.1 Analog and Digital Data
+
+        - 3.1.2 Analog and Digital Signals
+
+        - 3.1.3 Periodic and Nonperiodic
+
+    - 3.2 Periodic Analog Signals
+
+        - 3.2.1 Sine Wave
+
+        - 3.2.2 Phase
+
+        - 3.2.3 Wavelength
+
+        - 3.2.4 Time and Frequency Domains
+
+        - 3.2.5 Composite Signals
+
+        - 3.2.6 Bandwidth
+
+    - 3.3 Digital Signals
+
+        - 3.3.1 Bit Rate
+
+        - 3.3.2 Bit Length
+
+        - 3.3.3 Digital Signal as a Composite Analog Signal
+
+        - 3.3.4 Transmission of Digital Signals
+
+    - 3.4 Transmission Impairment
+
+        - 3.4.1 Attenuation
+
+        - 3.4.2 Distortioin
+
+        - 3.4.3 Noise
+
+    - 3.5 Data Rate Limits
+
+        - 3.5.1 Noiseless Channel: Nyquist Bit Rate
+
+        - 3.5.2 Noisy Channel: Shannon Capacity
+
+        - 3.5.3 Using Both Limits
+
+    - 3.6 Performance
+
+        - 3.6.1 Bandwidth
+
+        - 3.6.2 Throughput
+
+        - 3.6.3 Latency (Delay)
+
+        - 3.6.5 Jitter
+
 ## 3.8 Practice set
 
 ### 3.8.1 Quizzes
@@ -278,7 +340,7 @@ Amplitude (V)
 #### 14
 
 $$
-6 \time {2 \over 5} = 2.4
+6 \times {2 \over 5} = 2.4
 $$
 
 #### 15
