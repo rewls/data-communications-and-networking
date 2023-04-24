@@ -1,5 +1,39 @@
 # Ch2 Network Models
 
+## Contents
+
+PART 1: Overview
+
+- Chapter 2 Network Models
+
+    - 2.1 Protocol Layering
+
+        - 2.1.1 Scenarios
+
+        - 2.1.2 Principles of Protocol Layering
+
+        - 2.1.3 Logical Connections
+
+    - 2.2 TCP/IP Protocol Suite
+
+        - 2.2.1 Layered Architecture
+
+        - 2.2.2 Layers in the TCP/IP Protocol Suite
+
+        - 2.2.3 Description of Each Layer
+
+        - 2.2.4 Encapsulation and Decapsulation
+
+        - 2.2.5 Addressing
+
+        - 2.2.6 Multiplexing and Demultiplexing
+
+    - 2.3 The OSI Model
+
+        - 2.3.1 OSI versus TCP/IP
+
+        - 2.3.2 Lack of OSI Models's Success
+
 ## 2.5 Practice set
 
 ### 2.5.1 Quizzes
